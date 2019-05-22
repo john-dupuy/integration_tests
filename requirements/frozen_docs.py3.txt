@@ -257,7 +257,7 @@ python-swiftclient==3.7.0
 pytz==2019.1
 pyvcloud==19.1.2
 pyvmomi==6.7.1.2018.12
-pywinrm==0.3.0
+git+git://github.com/RedHatQE/py3winrm@master
 PyYAML==5.1
 pyzmq==18.0.1
 qtconsole==4.4.3
